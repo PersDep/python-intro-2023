@@ -1,15 +1,6 @@
 # Интеллектуальный анализ данных
 
-Репозиторий с материалами курса по введению в программирование на Python для майнора "Интеллектуальный анализ данных". ИАД-10
-
-## Домашние задания на бонусный балл
-
-Домашние задания, выдаваемые через этот репозиторий, оцениваются на бонусные баллы.
-
-* [Задание 1.](https://github.com/PersDep/python-intro-2022/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: 19.10.2022 в 12:00
-* [Задание 2.](https://github.com/PersDep/python-intro-2022/blob/main/HW02-collections-and-functions.ipynb) Дедлайн: 02.11.2022 в 12:00
-* [Задание 3.](https://github.com/PersDep/python-intro-2022/blob/main/HW03-funcs-OOP%2B.ipynb) Дедлайн: 16.11.2022 в 12:00
-* [Задание 4.](https://github.com/PersDep/python-intro-2022/blob/main/HW04-OOP%2B%2B-exceptions-iterators.ipynb) Дедлайн: 14.12.2022 в 12:00
+Репозиторий с материалами курса по введению в программирование на Python для майнора "Интеллектуальный анализ данных". ИАД-8
 
 ## Полезные ссылки
 
