@@ -14,6 +14,7 @@
 * Собственно репозиторий с ванильным Python: https://github.com/python/cpython
 * Для работы с jupyter ноутбуками без лишних действий: https://colab.research.google.com
 * Ставим pip (утилиту для управления пакетами python): https://packaging.python.org/tutorials/installing-packages/
+* Индекс пакетов python: https://pypi.org/
 * Способы поставить себе Jupyter (jupyterlab): https://jupyter.org/install
 * PyCharm: https://www.jetbrains.com/pycharm/download/
 * Git tutorial 1: https://learngitbranching.js.org/
